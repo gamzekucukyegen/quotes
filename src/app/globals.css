@@ -78,4 +78,9 @@ body {
 .new-quote-button:hover {
     background-color: #495057;
 }
-
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}

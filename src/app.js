@@ -32,6 +32,7 @@ useEffect(()=>{
 return (
 <div className="container">
             <div className="content">
+                <h1>QUOTES</h1>
                 <ul>
                     {quotes.map((quote, index) => (
                         <div key={index} className="quote-item">
